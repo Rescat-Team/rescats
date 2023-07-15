@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+
+body{
+  background-color: #A9BBC7;
+}
+
+.nav-text {
+  /* CAT RESCUE */
+
+
+  font-family: 'Amatica SC', cursive;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 140px;
+
+  color: #F7F5EB;
+
+}
+
+.des-text{
+  /* It all starts with the love for the stray cats from a family...... */
+
+
+  font-family: 'Sofia Sans', cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 34px;
+  /* identical to box height */
+
+color: #000000;
+
+
+}
