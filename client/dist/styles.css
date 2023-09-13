@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
 
 
-body{
+body {
   background-color: #A9BBC7;
 }
 
@@ -33,4 +33,100 @@ body{
 color: #000000;
 
 
+}
+
+.nav-button {
+  background-color:transparent;
+  border: none;
+  padding: 0.5em;
+  font-size: 2vw;
+  display: inline;
+}
+
+.nav-button:hover {
+  color: white;
+}
+
+.img-home {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 70vw;
+}
+
+/* .dropdown {
+  display: inline;
+  background-color: white;
+} */
+
+.dropdwn-btn {
+  display: block;
+  border: none;
+  padding: 0.5em;
+  font-size: 2vw;
+  width: 100%;
+}
+.dropdwn-btn:hover{
+  color: #6096B4;
+}
+
+.div-drpdwn {
+  text-align: center;
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+.div-drpdwn:hover {
+  background-color: white;
+}
+
+.contact-div {
+  display: flex;
+  justify-content: center;
+  margin: 2em;
+}
+
+a {
+  text-decoration: none
+}
+
+input,label {
+  display: block;
+  justify-content: center;
+
+}
+
+input {
+  width: 100%;
+}
+
+h2 {
+  font-family: 'Amatica SC', cursive;
+  font-size: 4em;
+}
+
+.drop-list {
+  width: 100%;
+  height: 100%;
+}
+
+ul:hover {
+  cursor: pointer;
+}
+
+li {
+  text-align: center;
+}
+
+.lgn-ls:hover {
+  background-color: grey;
+}
+
+.container {
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  align-self: center;
 }
