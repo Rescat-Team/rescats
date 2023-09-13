@@ -1,5 +1,5 @@
 # rescats
-The non-profit organization of cloud adapting cats
+The non-profit organization of cats' cloud adaption cats
 ## Installation
 1. Start the npm
 ```
